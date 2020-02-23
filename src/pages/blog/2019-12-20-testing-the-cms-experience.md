@@ -12,4 +12,4 @@ Safari working.
 
 
 
-![](/img/2019-09-24-16.03.11.gif)
+![asdf](/img/screen-shot-2020-02-21-at-2.22.53-pm.png "asdf")

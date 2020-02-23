@@ -9,3 +9,7 @@ tags:
   - ughh
 ---
 Safari working.
+
+
+
+![](/img/2019-09-24-16.03.11.gif)
